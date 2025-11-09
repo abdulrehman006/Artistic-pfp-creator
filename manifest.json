@@ -1,0 +1,36 @@
+{
+  "id": "artisticpfpcreator",
+  "name": "Artistic PFP Creator",
+  "version": "4.1.0",
+  "manifestVersion": 4,
+  "main": "index-optimized.html",
+  "host": {
+    "app": "PS",
+    "minVersion": "23.0"
+  },
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "panel",
+      "minimumSize": {
+        "width": 380,
+        "height": 600
+      },
+      "maximumSize": {
+        "width": 1000,
+        "height": 1200
+      },
+      "preferredDockedSize": {
+        "width": 420,
+        "height": 700
+      }
+    }
+  ],
+  "icons": [
+    {
+      "width": 48,
+      "height": 48,
+      "path": "icons/icon.png"
+    }
+  ]
+}
