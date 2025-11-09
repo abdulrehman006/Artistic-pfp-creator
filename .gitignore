@@ -2,6 +2,11 @@
 node_modules/
 package-lock.json
 
+# License Server
+license-server/node_modules/
+license-server/licenses.db
+license-server/*.log
+
 # Build output
 dist/
 build/
