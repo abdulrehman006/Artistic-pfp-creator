@@ -2,6 +2,26 @@
 
 > Professional Photoshop plugin for creating social media profile pictures and passport photos with AI-powered background removal.
 
+## Screenshots
+
+### Main Interface
+![Main Interface](./screenshots/main-interface.jpg)
+*Choose between Social Media Posts, Passport Photos, or Artistic Effects*
+
+### Social Media Posts
+![Social Media Posts](./screenshots/social-media-posts.jpg)
+*Create perfectly cropped and resized profile pictures for Instagram, Facebook, Twitter, and more*
+
+### Passport Photos
+![Passport Photos](./screenshots/passport-photos.jpg)
+*Generate professional passport photos with AI background removal for multiple countries*
+
+### Artistic Effects
+![Artistic Effects](./screenshots/artistic-effects.jpg)
+*Apply instant artistic filters like Warm Glow, Vibrant Pop, and more*
+
+---
+
 ## Features
 
 ### 📱 Social Media Profile Pictures
